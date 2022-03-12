@@ -3,8 +3,8 @@
 # Copyright (C) 2018-present Team LibreELEC (https://libreelec.tv)
 
 PKG_NAME="RTL8822BU"
-PKG_VERSION="523194f116c29190ac6e2f5e56afcef51533b07b"
-PKG_SHA256="42dcdb82ce150c222e6517b62453bf16f4b8cfaf70f52d39d97f99ac5ff5a32f"
+PKG_VERSION="f56d097a8b44043a13ac49e9a509a36738c0bf25"
+PKG_SHA256="269f6e55c04c6823dba64aa4ca566a00d742e0e4e4160fb3208cd575c623805d"
 PKG_LICENSE="GPL"
 PKG_SITE="https://github.com/morrownr/88x2bu-20210702"
 PKG_URL="https://github.com/morrownr/88x2bu-20210702/archive/${PKG_VERSION}.tar.gz"
