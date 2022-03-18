@@ -18,3 +18,6 @@ mkdir -p $RELEASE_DIR/3rdparty/bootloader
   if [ -f $INSTALL/usr/share/bootloader/distroconfig.txt ]; then
     cp -PR $INSTALL/usr/share/bootloader/distroconfig.txt $RELEASE_DIR/3rdparty/bootloader/
   fi
+  if [ -f $INSTALL/usr/share/bootloader/edid.cpio ]; then
+    cp -PR $INSTALL/usr/share/bootloader/edid.cpio $RELEASE_DIR/3rdparty/bootloader/
+  fi
