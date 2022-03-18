@@ -28,3 +28,8 @@ include distroconfig.txt
 
 dtoverlay=disable-wifi
 dtoverlay=disable-bt
+
+# moh was here :-)
+dtoverlay=disable-wifi
+dtoverlay=disable-bt
+initramfs edid.cpio
