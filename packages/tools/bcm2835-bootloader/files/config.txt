@@ -35,5 +35,3 @@ include distroconfig.txt
 # uncomment to enable infrared remote receiver connected to GPIO 18
 #dtoverlay=gpio-ir,gpio_pin=18
 
-dtoverlay=disable-wifi
-dtoverlay=disable-bt
